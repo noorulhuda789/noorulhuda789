@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorulhuda789&label=Profile%20views&color=0e75b6&style=flat" alt="noorulhuda789" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noorulhuda789" alt="noorulhuda789" /></a> </p>
-
 - 🔭 I’m currently working on **DB and Cyber Security**
 
 - 🌱 I’m currently learning **Cyber Security**
