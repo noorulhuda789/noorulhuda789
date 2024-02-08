@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorulhuda789&label=Profile%20views&color=0e75b6&style=flat" alt="noorulhuda789" /> </p>
 
-- 🔭 I’m currently working on **DB and Cyber Security**
+- 🔭 I’m currently working on **Data base**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Data base**
 
 - 👯 I’m looking to collaborate on **C++ ,C# and Python**
 
